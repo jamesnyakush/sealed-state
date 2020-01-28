@@ -1,7 +1,8 @@
-package com.jamesnyakush.recyclersealed
+package com.jamesnyakush.recyclersealed.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.jamesnyakush.recyclersealed.R
 
 class MainActivity : AppCompatActivity() {
 
